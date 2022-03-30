@@ -9,3 +9,4 @@ export function FETCH_CREATED_GAME() {
           }
       }`;
   }
+  
